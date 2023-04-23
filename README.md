@@ -1,10 +1,8 @@
-# Task
+# Blog-post
 Install composer 
 
-If installed run command composer update in command prompt
+Create Database
 
-Create Database task in phpmyadmin
+Run php artisan migrate command in terminal
 
-Run command php artisan migrate in command prompt
-
-Open the url http://localhost/Task-main/public/
+Open the url http://localhost/Blog-post
